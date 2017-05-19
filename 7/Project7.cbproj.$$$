@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.490,=C:\Users\1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,C:\Users\1\Documents\Embarcadero\Studio\Projects\Project7.cbproj=C:\Users\1\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit7.cpp=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,C:\Users\1\Documents\Embarcadero\Studio\Projects\Project7PCH1.h=C:\Users\1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.800,C:\Users\1\Documents\Embarcadero\Studio\Projects\Project7.cbproj=D:\Оаип 7 лаба\Project7.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit7.dfm=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit7.h=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2017.05.19 18:02:33.003,D:\Оаип 7 лаба\Unit7.cpp=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit7.cpp</Transaction>
+    <Transaction>2017.05.19 18:02:33.003,D:\Оаип 7 лаба\Unit7.dfm=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit7.dfm</Transaction>
+    <Transaction>2017.05.19 18:02:33.003,D:\Оаип 7 лаба\Unit7.h=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit7.h</Transaction>
+    <Transaction>2017.05.19 18:02:56.045,D:\Оаип 7 лаба\Project7PCH1.h=C:\Users\1\Documents\Embarcadero\Studio\Projects\Project7PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
