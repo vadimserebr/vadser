@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.117,C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Projects\Unit9.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,C:\Users\1\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Projects\Project9.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,C:\Users\1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Projects\Project9PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.086,=C:\Users\1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Projects\Unit9.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projects\Unit9.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,D:\Projects\Project9.cbproj=D:\5 лаба оаип\Project9.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,=C:\Users\1\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017.05.19 17:55:56.895,D:\5 лаба оаип\Unit9.cpp=D:\Projects\Unit9.cpp</Transaction>
+    <Transaction>2017.05.19 17:55:56.895,D:\5 лаба оаип\Unit9.dfm=D:\Projects\Unit9.dfm</Transaction>
+    <Transaction>2017.05.19 17:55:56.895,D:\5 лаба оаип\Unit9.h=D:\Projects\Unit9.h</Transaction>
+    <Transaction>2017.05.19 17:56:30.598,D:\5 лаба оаип\Project9PCH1.h=D:\Projects\Project9PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
